@@ -1,0 +1,1 @@
+# crear database tienda, crear coleccion clientes, insertar datos 
