@@ -46,7 +46,7 @@ node index.js
 
 # 2. ¿Cómo se indexan campos en MongoDB?
 
-Los índices permiten búsquedas eficientes sobre los campos de una colección.
+Los índices permiten búsquedas eficientes sobre los campos de una colección.Contienen copias de partes de los datos de los documentos para optimizar las consultas.
 
 ---
 
